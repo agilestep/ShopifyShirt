@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails ShopifyShirt: development" uuid="301669ec-4013-4999-9c5d-3c4df83ab333">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails ShopifyShirt: test" uuid="fbc1a187-7355-41bd-b8c2-f7bb6a893889">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails ShopifyShirt: production" uuid="5a4fd37b-0901-4c7b-8fe4-33e88649ea75">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

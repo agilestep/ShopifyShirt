@@ -1,0 +1,28 @@
+
+#
+default: &default
+  adapter: postgresql
+  host: localhost
+  username: postgres
+  password: super_start
+  pool: 5
+
+development:
+  <<: *default
+  #database: tshirtdb
+  database: shopify_db
+
+
+
+test:
+  <<: *default
+  #database: tshirt_db_test
+  database: shopify_db_test
+
+
+#
+production:
+  <<: *default
+  database: shopify_db_production
+  #database: magic_db_product
+  password: super_start
